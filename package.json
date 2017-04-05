@@ -1,0 +1,28 @@
+{
+  "name": "pfredux",
+  "version": "1.0.0",
+  "description": "erin's portfolio redux.",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erinadora/PFRedux.git"
+  },
+  "keywords": [
+    "minimal",
+    "clean",
+    "aesthetic"
+  ],
+  "author": "erin goncer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erinadora/PFRedux/issues"
+  },
+  "homepage": "https://github.com/erinadora/PFRedux#readme"
+}
